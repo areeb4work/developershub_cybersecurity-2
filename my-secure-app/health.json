@@ -1,0 +1,1 @@
+{"status":"secure","features":["Rate limiting","CORS","API Key Auth","JWT Zero Trust","OAuth (Google)","CSP Headers","HSTS","WAF (HPP + MongoSanitize)","Brute Force Detection"]}
